@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I'm Arnav Shrivastav  
+I'm Arnav Shrivastava  
 
 A beginner Full Stack Developer starting my journey into building modern web applications 🚀  
 Currently learning and exploring frontend development step by step.
